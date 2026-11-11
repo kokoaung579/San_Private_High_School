@@ -1,0 +1,86 @@
+[
+  {
+    "id": "teacher-appreciation",
+    "titleMY": "ဆရာကန်တော့ပွဲ",
+    "titleEN": "Teacher Appreciation Ceremony",
+    "descriptionMY": "ဆရာ၊ ဆရာမများအား ကျေးဇူးတင်ဂုဏ်ပြုသည့် နွေးထွေးသော အခမ်းအနား။",
+    "descriptionEN": "A warm occasion for students to honour and thank their teachers.",
+    "date": "Sample event · 2025",
+    "cover": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1000&q=85",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1400&q=85", "captionMY": "ကျေးဇူးတင်လေးစားမှု အခိုက်အတန့်", "captionEN": "A moment of gratitude and respect" },
+      { "src": "https://images.unsplash.com/photo-1542810634-71277d95dcbb?auto=format&fit=crop&w=1400&q=85", "captionMY": "အခမ်းအနားအတွက် စုဝေးခြင်း", "captionEN": "Gathering for the ceremony" },
+      { "src": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1400&q=85", "captionMY": "သင်ယူမှုကို ဂုဏ်ပြုခြင်း", "captionEN": "Celebrating learning" }
+    ]
+  },
+  {
+    "id": "football",
+    "titleMY": "ဘောလုံးပွဲ",
+    "titleEN": "Football Competition",
+    "descriptionMY": "အသင်းလိုက်ပူးပေါင်းမှုနှင့် အားကစားစိတ်ဓာတ်ကို တည်ဆောက်သည့် ဘောလုံးပွဲများ။",
+    "descriptionEN": "Friendly football fixtures that build teamwork and sporting spirit.",
+    "date": "Sample event · 2025",
+    "cover": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1000&q=85",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1400&q=85", "captionMY": "ဘောလုံးကွင်းပေါ်က အသင်းလိုက်စိတ်ဓာတ်", "captionEN": "Team spirit on the pitch" },
+      { "src": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=1400&q=85", "captionMY": "ပွဲစဉ်အတွက် အဆင်သင့်", "captionEN": "Ready for the match" },
+      { "src": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?auto=format&fit=crop&w=1400&q=85", "captionMY": "ပျော်ရွှင်သော ပြိုင်ပွဲနေ့", "captionEN": "A joyful competition day" }
+    ]
+  },
+  {
+    "id": "sports-day",
+    "titleMY": "အားကစားပြိုင်ပွဲ",
+    "titleEN": "Sports Competition",
+    "descriptionMY": "စွမ်းအင်ပြည့်ဝသော အားကစားပြိုင်ပွဲများနှင့် ဆုချီးမြှင့်ခြင်းများ။",
+    "descriptionEN": "An energetic day of sport, effort, teamwork and awards.",
+    "date": "Sample event · 2025",
+    "cover": "https://images.unsplash.com/photo-1461896836934-996b869e0e06?auto=format&fit=crop&w=1000&q=85",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1461896836934-996b869e0e06?auto=format&fit=crop&w=1400&q=85", "captionMY": "အားကစားပြိုင်ပွဲနေ့", "captionEN": "Sports day in motion" },
+      { "src": "https://images.unsplash.com/photo-1530137073520-7d4c4e414d9c?auto=format&fit=crop&w=1400&q=85", "captionMY": "အဆုံးတိုင် ကြိုးစားမှု", "captionEN": "Giving every effort" },
+      { "src": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=1400&q=85", "captionMY": "အဖွဲ့လိုက် ဂုဏ်ပြုခြင်း", "captionEN": "Celebrating as a team" }
+    ]
+  },
+  {
+    "id": "student-activities",
+    "titleMY": "ကျောင်းလှုပ်ရှားမှုများ",
+    "titleEN": "School Activities",
+    "descriptionMY": "ဖန်တီးမှု၊ ပူးပေါင်းဆောင်ရွက်မှုနှင့် ပျော်ရွှင်စွာသင်ယူမှုတို့ကို ပေါင်းစပ်ထားသော လှုပ်ရှားမှုများ။",
+    "descriptionEN": "Creative, collaborative activities that make learning memorable.",
+    "date": "Sample event · 2025",
+    "cover": "https://images.unsplash.com/photo-1529390079861-591de354fa06?auto=format&fit=crop&w=1000&q=85",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1529390079861-591de354fa06?auto=format&fit=crop&w=1400&q=85", "captionMY": "အတူတကွ ဖန်တီးသင်ယူခြင်း", "captionEN": "Creating and learning together" },
+      { "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1400&q=85", "captionMY": "စူးစမ်းလေ့လာမှု အခိုက်အတန့်", "captionEN": "A moment of discovery" },
+      { "src": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1400&q=85", "captionMY": "စာသင်ခန်းပြင်ပက သင်ယူမှု", "captionEN": "Learning beyond the classroom" }
+    ]
+  },
+  {
+    "id": "celebrations",
+    "titleMY": "ကျောင်းပွဲအခမ်းအနားများ",
+    "titleEN": "School Celebrations",
+    "descriptionMY": "အောင်မြင်မှုများ၊ အမှတ်တရများနှင့် ကျောင်းမိသားစု၏ ပျော်ရွှင်ဖွယ်ရာ အခမ်းအနားများ။",
+    "descriptionEN": "Special celebrations that honour achievement and school community.",
+    "date": "Sample event · 2025",
+    "cover": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1000&q=85",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1400&q=85", "captionMY": "အောင်မြင်မှုကို အတူဂုဏ်ပြုခြင်း", "captionEN": "Celebrating achievement together" },
+      { "src": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1400&q=85", "captionMY": "အမှတ်တရ ပွဲနေ့", "captionEN": "A memorable school occasion" },
+      { "src": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1400&q=85", "captionMY": "ပျော်ရွှင်မှုကို မျှဝေခြင်း", "captionEN": "Sharing in the celebration" }
+    ]
+  },
+  {
+    "id": "student-life",
+    "titleMY": "ကျောင်းသားများ၏ အခြားလှုပ်ရှားမှုများ",
+    "titleEN": "More Student Moments",
+    "descriptionMY": "ကျောင်းသားများ၏ စိတ်ဝင်စားမှု၊ မိတ်ဆွေဖွဲ့မှုနှင့် နေ့စဉ်ဖွံ့ဖြိုးတိုးတက်မှု အခိုက်အတန့်များ။",
+    "descriptionEN": "Everyday moments of curiosity, friendship and student growth.",
+    "date": "Sample event · 2025",
+    "cover": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=85",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1400&q=85", "captionMY": "မိတ်ဆွေများနှင့်အတူ သင်ယူခြင်း", "captionEN": "Learning with friends" },
+      { "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=1400&q=85", "captionMY": "စိတ်ကူးကို မျှဝေခြင်း", "captionEN": "Sharing ideas" },
+      { "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1400&q=85", "captionMY": "တိုးတက်မှု အမှတ်တရ", "captionEN": "A moment of growth" }
+    ]
+  }
+]

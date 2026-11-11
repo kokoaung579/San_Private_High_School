@@ -1,0 +1,30 @@
+[
+  {
+    "titleMY": "စာကြည့်တိုက်",
+    "titleEN": "School Library",
+    "descMY": "စာဖတ်ခြင်းနှင့် ကိုယ်တိုင်လေ့လာခြင်းအတွက် စာအုပ်များနှင့် တိတ်ဆိတ်သောနေရာ။",
+    "descEN": "A quiet learning space with books and resources for independent study.",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "titleMY": "သန့်ရှင်းသော သန့်စင်ခန်းများ",
+    "titleEN": "Clean & Hygienic Toilets",
+    "descMY": "ကျောင်းသားများအတွက် သန့်ရှင်းမှုနှင့် ကိုယ်ရေးကိုယ်တာ သက်တောင့်သက်သာကို ဦးစားပေးထားသည်။",
+    "descEN": "Clean, well-maintained washrooms designed for student comfort and hygiene.",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "titleMY": "သက်တောင့်သက်သာရှိသော စာသင်ခန်းများ",
+    "titleEN": "Bright Classrooms",
+    "descMY": "သင်ယူမှုအတွက် အလင်းရောင်ကောင်းပြီး စနစ်တကျ ပြင်ဆင်ထားသော စာသင်ခန်းများ။",
+    "descEN": "Bright, organized classrooms that support focused and comfortable learning.",
+    "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "titleMY": "ကျောင်းပတ်ဝန်းကျင်",
+    "titleEN": "School Campus",
+    "descMY": "လုံခြုံပြီး စည်းကမ်းရှိသော ကျောင်းပတ်ဝန်းကျင်တွင် ပညာရေးနှင့် လူမှုရေးဖွံ့ဖြိုးမှုကို အားပေးသည်။",
+    "descEN": "A welcoming campus environment that encourages learning and student development.",
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=900&q=80"
+  }
+]

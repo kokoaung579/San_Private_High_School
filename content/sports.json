@@ -1,0 +1,23 @@
+[
+  {
+    "titleMY": "ခြင်းလုံးကွင်း",
+    "titleEN": "Chinlone Court",
+    "descMY": "မြန်မာ့ရိုးရာအားကစား ခြင်းလုံးကို လေ့ကျင့်ကစားနိုင်သော နေရာ။",
+    "descEN": "A dedicated space for students to practice and enjoy traditional Myanmar chinlone.",
+    "image": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "titleMY": "ဘောလုံး / Futsal ကွင်း",
+    "titleEN": "Football & Futsal Court",
+    "descMY": "အသင်းလိုက်ကစားမှု၊ ကြံ့ခိုင်မှုနှင့် အားကစားစိတ်ဓာတ်ကို တိုးတက်စေသည်။",
+    "descEN": "A court for football and futsal, teamwork, fitness, and friendly competition.",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "titleMY": "Volleyball ကွင်း",
+    "titleEN": "Volleyball Court",
+    "descMY": "အသင်းအဖွဲ့လိုက် ပူးပေါင်းဆောင်ရွက်မှုနှင့် လှုပ်ရှားမှုများအတွက် ကွင်း။",
+    "descEN": "A court for volleyball practice, teamwork, and inter-class matches.",
+    "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&w=900&q=80"
+  }
+]

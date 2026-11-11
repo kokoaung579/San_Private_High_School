@@ -1,0 +1,26 @@
+[
+  {
+    "grade": "Grade 5 - 8",
+    "titleMY": "အလယ်တန်းအဆင့် (Grade 5 - 8)",
+    "titleEN": "Middle School Level (Grade 5 - 8)",
+    "descriptionMY": "အခြေခံဘာသာရပ်များကို ပိုင်နိုင်စွာ နားလည်သဘောပေါက်စေပြီး စဉ်းစားတွေးခေါ်မှုစွမ်းရည် တိုးတက်စေရေး ဗဟိုပြုသင်ကြားပေးပါသည်။",
+    "descriptionEN": "Focuses on core academic foundations and critical thinking skills.",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "grade": "Grade 9 - 10",
+    "titleMY": "အထက်တန်းကြိုတင်ပြင်ဆင်မှုအဆင့် (Grade 9 - 10)",
+    "titleEN": "Pre-High School Level (Grade 9 - 10)",
+    "descriptionMY": "တက္ကသိုလ်ဝင်တန်းအတွက် လိုအပ်သော ဘာသာရပ်ဆိုင်ရာ သီအိုရီနှင့် လက်တွေ့ အသိပညာများကို အနီးကပ် လေ့ကျင့်ပေးပါသည်။",
+    "descriptionEN": "Comprehensive preparation in core subjects leading to matriculation.",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "grade": "Grade 11 - 12",
+    "titleMY": "တက္ကသိုလ်ဝင်တန်းအဆင့် (Grade 11 - 12)",
+    "titleEN": "Matriculation Level (Grade 11 - 12)",
+    "descriptionMY": "ဂုဏ်ထူးမှတ်များ ထူးချွန်စွာ ရရှိစေရန် အတွေ့အကြုံရင့် ဆရာ/ဆရာမကြီးများက စနစ်တကျ အထူးလေ့ကျင့် သင်ကြားပေးပါသည်။",
+    "descriptionEN": "Specialized coaching by senior educators targeting high distinction results.",
+    "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=600&q=80"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "titleMY": "ဆရာကန်တော့ပွဲ",
+    "titleEN": "Teachers’ Appreciation Ceremony",
+    "date": "Sample date · 2025",
+    "descMY": "ဆရာ၊ ဆရာမများအား ကျေးဇူးတင်ဂုဏ်ပြုသည့် အခမ်းအနား။",
+    "descEN": "A special ceremony where students express gratitude and respect to their teachers.",
+    "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "titleMY": "ကျောင်းအားကစားပြိုင်ပွဲ",
+    "titleEN": "Annual Sports Competition",
+    "date": "Sample date · 2025",
+    "descMY": "အတန်းအလိုက် အားကစားပြိုင်ပွဲများနှင့် ဆုချီးမြှင့်ခြင်း။",
+    "descEN": "A lively day of inter-class games, teamwork, and awards.",
+    "image": "https://images.unsplash.com/photo-1461896836934-996b869e0e06?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "titleMY": "ဆုချီးမြှင့်ပွဲ",
+    "titleEN": "Prize-Giving Ceremony",
+    "date": "Sample date · 2025",
+    "descMY": "ပညာရေးနှင့် လှုပ်ရှားမှုများတွင် ထူးချွန်သူများကို ဂုဏ်ပြုခြင်း။",
+    "descEN": "Celebrating students’ academic achievements and contributions.",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "titleMY": "ကျောင်းသားလှုပ်ရှားမှုနေ့",
+    "titleEN": "Student Activity Day",
+    "date": "Sample date · 2025",
+    "descMY": "ဖန်တီးမှု၊ ပူးပေါင်းဆောင်ရွက်မှုနှင့် ပျော်ရွှင်ဖွယ် သင်ယူမှုအစီအစဉ်များ။",
+    "descEN": "Creative, collaborative, and fun learning activities for students.",
+    "image": "https://images.unsplash.com/photo-1529390079861-591.de?auto=format&fit=crop&w=900&q=80"
+  }
+]

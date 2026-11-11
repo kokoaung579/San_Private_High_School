@@ -1,0 +1,23 @@
+{
+  "serviceTitleMY": "လုံခြုံစိတ်ချရသော ကျောင်းကြို/ပို့ မော်တော်ယာဉ် ဝန်ဆောင်မှု",
+  "serviceTitleEN": "Safe & Reliable School Bus Service",
+  "descriptionMY": "နေပြည်တော်မြို့နယ်အသီးသီးသို့ ကျောင်းကြို/ပို့ ယာဉ်များဖြင့် စနစ်တကျ ဝန်ဆောင်မှုပေးလျက်ရှိပါသည်။ ယာဉ်တိုင်းတွင် လုံခြုံရေး GPS နှင့် ကြို/ပို့ တာဝန်ခံ ဆရာ/ဆရာမများ လိုက်ပါပါသည်။",
+  "descriptionEN": "Comprehensive transport covering Nay Pyi Taw townships with GPS safety monitoring and dedicated bus attendants.",
+  "featuresMY": [
+    "GPS စနစ်ဖြင့် အချိန်နှင့်တစ်ပြေးညီ စောင့်ကြည့်ခြင်း",
+    "ကားတစ်စီးစီတွင် ယာဉ်ထိန်းဆရာ/ဆရာမ လိုက်ပါခြင်း",
+    "လေအေးပေးစနစ် နှင့် သက်သောင့်သက်သာ ထိုင်ခုံများ"
+  ],
+  "featuresEN": [
+    "Real-time GPS tracking for all routes",
+    "Dedicated bus monitor staff on every bus",
+    "Air-conditioned and comfortable seats"
+  ],
+  "routes": [
+    { "townshipMY": "ဇမ္ဗူသီရိမြို့နယ်", "townshipEN": "Zabuthiri Township", "timeMY": "နံနက် ၆:၄၅ AM / ညနေ ၄:၃၀ PM", "timeEN": "6:45 AM / 4:30 PM" },
+    { "townshipMY": "ဥတ္တရသီရိမြို့နယ်", "townshipEN": "Ottarathiri Township", "timeMY": "နံနက် ၆:၃၀ AM / ညနေ ၄:၄၅ PM", "timeEN": "6:30 AM / 4:45 PM" },
+    { "townshipMY": "ပျဉ်းမနားမြို့နယ်", "townshipEN": "Pyinmana Township", "timeMY": "နံနက် ၆:၃၀ AM / ညနေ ၄:၄၅ PM", "timeEN": "6:30 AM / 4:45 PM" },
+    { "townshipMY": "ဇေယျာသီရိမြို့နယ်", "townshipEN": "Zayarthiri Township", "timeMY": "နံနက် ၆:၃၀ AM / ညနေ ၄:၄၅ PM", "timeEN": "6:30 AM / 4:45 PM" }
+
+  ]
+}
